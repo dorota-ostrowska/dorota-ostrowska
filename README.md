@@ -19,9 +19,7 @@ I'm Dorota, a Software Engineer from Poland.
 
 ### Languages and tools:
 
-<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-
-<img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/qt.svg"/><img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mathworks.svg"/><img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobephotoshop.svg"/><img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/adobeillustrator.svg"/><img height=50 src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 
 ---
 
