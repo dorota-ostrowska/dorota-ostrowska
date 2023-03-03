@@ -15,7 +15,7 @@ if x["cod"] != "404":
 	current_humidity = y["humidity"]
 	z = x["weather"]
 	weather_description = z[0]["description"]
-	info = ("\n\nTemperature: " +
+	info = ("\nTemperature: " +
 					str(current_temperature) + " K, " + str(round((current_temperature - 273.15), 2)) + "°C\n"
 		    "\nAtmospheric pressure: " +
 					str(current_pressure) + " hPa\n"
