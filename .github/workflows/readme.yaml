@@ -27,13 +27,9 @@ jobs:
       - name: Run weather
         run: python weather_in_warsaw.py
         env:
-          WEATHER_KEY: ${{secrets.WEATHER_KEY}}
+          WEATHER_KEY: ${{  secrets.WEATHER_KEY  }}
 
-      - name: update file and push to remote
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add -A
-          git commit -m "Update README.md"
-          git push
+      - name: Push new README.md
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{  secrets.GITHUB_TOKEN  }}
