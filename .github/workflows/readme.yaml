@@ -19,6 +19,9 @@ jobs:
         with:
           python-version: '3.10'
 
+      - name: Install requests
+        run: pip install requests
+
       - name: Run weather
         run: python weather_in_warsaw.py
         env:
