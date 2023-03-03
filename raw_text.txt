@@ -39,13 +39,3 @@ I'm Dorota, a Software Engineer from Poland.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <details><summary>✨Weather in Warsaw✨</summary>
-
-Temperature: 272.03 K, -1.12°C
-
-Atmospheric pressure: 1017 hPa
-
-Humidity: 93%
-
-Weather: broken clouds
-
-</details>
