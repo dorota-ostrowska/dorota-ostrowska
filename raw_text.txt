@@ -38,4 +38,9 @@ I'm Dorota, a Software Engineer from Poland.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<details>
+    <summary><b>✨Meme✨</b></summary>
+    <img src="https://preview.redd.it/n5ww6k7agbla1.png?width=640&crop=smart&auto=webp&v=enabled&s=91c38a9142ce8a6f766dc03d1e64c5438e7d80e2"/>
+</details>
+
 <details><summary>✨Weather in Warsaw✨</summary>
