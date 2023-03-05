@@ -39,18 +39,18 @@ I'm Dorota, a Software Engineer from Poland.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <details>
-    <summary><b>✨Meme✨</b></summary>
+    <summary>✨Meme✨</summary>
     <img src="https://preview.redd.it/n5ww6k7agbla1.png?width=640&crop=smart&auto=webp&v=enabled&s=91c38a9142ce8a6f766dc03d1e64c5438e7d80e2"/>
 </details>
 
 <details><summary>✨Weather in Warsaw✨</summary>
 (Updating every day at about 1 pm)
 
-Temperature 🌡️: 273.66 K, 0.51°C
+Temperature 🌡️: 272.89 K, -0.26°C
 
-Atmospheric pressure 💨: 1007 hPa
+Atmospheric pressure 💨: 1005 hPa
 
-Humidity 💦: 52%
+Humidity 💦: 68%
 
 Weather ☔️: clear sky
 
