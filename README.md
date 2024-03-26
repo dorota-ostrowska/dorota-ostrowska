@@ -14,15 +14,6 @@ I'm Dorota, a Software Engineer from Poland.
 
 ---
 
-### 🌿Languages and tools
-
-<img height=50 src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-
-
-<img height=50 src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg"/> <img height=50 src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"/>
-
----
-
 ### 🌿My stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorota-ostrowska&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
@@ -43,12 +34,12 @@ I'm Dorota, a Software Engineer from Poland.
 <details><summary>✨Weather in Warsaw✨</summary>
 (Updating every day at about 1 pm)
 
-Temperature 🌡️: 279.75 K, 6.6°C
+Temperature 🌡️: 281.43 K, 8.28°C
 
-Atmospheric pressure 💨: 1008 hPa
+Atmospheric pressure 💨: 1007 hPa
 
-Humidity 💦: 79%
+Humidity 💦: 72%
 
-Weather ☔️: fog
+Weather ☔️: scattered clouds
 
 </details>
