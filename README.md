@@ -8,12 +8,9 @@ Welcome to my page! 👋
 
 I'm Dorota, a Software Engineer from Poland. 
 
-- 🐍 I'm currently working as a Python Developer.
 - 🏫 I'm a student of the Polish-Japanese Academy of Information Technology in Warsaw.
 - 🔭 I'm currently pursuing a master’s degree in the field of Computer Science, specialising in engineering of software, business processes and databases.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ostrowska-dorota/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
-- 😄 Pronouns: she / her / hers
-- ⚡ Fun fact: I graduated from the Gdańsk University of Technology so I was associated with this most beautiful city in Poland. Did you know that the first public autopsy in Europe took place in Gdańsk?
 
 ---
 
@@ -46,12 +43,12 @@ I'm Dorota, a Software Engineer from Poland.
 <details><summary>✨Weather in Warsaw✨</summary>
 (Updating every day at about 1 pm)
 
-Temperature 🌡️: 282.98 K, 9.83°C
+Temperature 🌡️: 279.75 K, 6.6°C
 
-Atmospheric pressure 💨: 999 hPa
+Atmospheric pressure 💨: 1008 hPa
 
-Humidity 💦: 59%
+Humidity 💦: 79%
 
-Weather ☔️: scattered clouds
+Weather ☔️: fog
 
 </details>
