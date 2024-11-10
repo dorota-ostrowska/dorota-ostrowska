@@ -36,10 +36,10 @@ I'm Dorota, a Software Engineer from Poland.
 
 Temperature 🌡️: 279.06 K, 5.91°C
 
-Atmospheric pressure 💨: 1032 hPa
+Atmospheric pressure 💨: 1030 hPa
 
-Humidity 💦: 92%
+Humidity 💦: 71%
 
-Weather ☔️: overcast clouds
+Weather ☔️: clear sky
 
 </details>
