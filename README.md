@@ -8,7 +8,8 @@ Welcome to my page! 👋
 
 I'm Dorota, a Software Engineer from Poland. 
 
-- 🏫 I earned a Bachelor's in Power Engineering ⚡️ from Gdańsk University of Technology and a Master's in Computer Science 👾 from PJATK.
+- 🏫 I'm a student of the Polish-Japanese Academy of Information Technology in Warsaw.
+- 🔭 I'm currently pursuing a master’s degree in the field of Computer Science, specialising in engineering of software, business processes and databases.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ostrowska-dorota/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="" height="30" width="40" /></a>
 
 ---
@@ -33,9 +34,9 @@ I'm Dorota, a Software Engineer from Poland.
 <details><summary>✨Weather in Warsaw✨</summary>
 (Updating every day at about 1 pm)
 
-Temperature 🌡️: 291.76 K, 18.61°C
+Temperature 🌡️: 292.23 K, 19.08°C
 
-Atmospheric pressure 💨: 1024 hPa
+Atmospheric pressure 💨: 1023 hPa
 
 Humidity 💦: 40%
 
