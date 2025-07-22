@@ -33,12 +33,12 @@ I'm Dorota, a Software Engineer from Poland.
 <details><summary>✨Weather in Warsaw✨</summary>
 (Updating every day at about 1 pm)
 
-Temperature 🌡️: 302.03 K, 28.88°C
+Temperature 🌡️: 299.06 K, 25.91°C
 
-Atmospheric pressure 💨: 1005 hPa
+Atmospheric pressure 💨: 1006 hPa
 
-Humidity 💦: 51%
+Humidity 💦: 50%
 
-Weather ☔️: scattered clouds
+Weather ☔️: clear sky
 
 </details>
