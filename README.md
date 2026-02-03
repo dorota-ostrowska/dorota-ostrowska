@@ -43,3 +43,14 @@ Weather ☔️: scattered clouds
 ### ✨Random joke✨
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+(Updating every day at about 1 pm)
+
+Temperature 🌡️: 260.75 K, -12.4°C
+
+Atmospheric pressure 💨: 1020 hPa
+
+Humidity 💦: 63%
+
+Weather ☔️: scattered clouds
+
+</details>
