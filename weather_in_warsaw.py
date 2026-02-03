@@ -15,7 +15,7 @@ if x["cod"] != "404":
 	current_humidity = y["humidity"]
 	z = x["weather"]
 	weather_description = z[0]["description"]
-	info = ("(Updating every day at about 1 pm)\n\nTemperature 🌡️: " +
+	info = ("I live in Warsaw. 🧜🏻‍♀️\n\nTemperature 🌡️: " +
 					str(current_temperature) + " K, " + str(round((current_temperature - 273.15), 2)) + "°C\n"
 		    "\nAtmospheric pressure 💨: " +
 					str(current_pressure) + " hPa\n"

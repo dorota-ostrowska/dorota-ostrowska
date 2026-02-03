@@ -40,8 +40,8 @@ Comedy is random. Taste is subjective. Please don’t judge me by this joke. �
 
 ---
 
-<details><summary>✨Weather in Warsaw✨</summary>
-(Updating every day at about 1 pm)
+<details><summary>☀️ Weather in My City</summary>
+I live in Warsaw. 🧜🏻‍♀️
 
 Temperature 🌡️: 264.89 K, -8.26°C
 
