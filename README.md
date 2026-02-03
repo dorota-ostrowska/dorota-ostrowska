@@ -44,6 +44,8 @@ Comedy is random. Taste is subjective. Please don’t judge me by this joke. �
 
 I live in **Warsaw**. 🧜🏻‍♀️
 
+_(The data updates everyday at about 1 pm)_
+
 Temperature 🌡️: 260.56 K, -12.59°C
 
 Atmospheric pressure 💨: 1021 hPa
@@ -51,16 +53,3 @@ Atmospheric pressure 💨: 1021 hPa
 Humidity 💦: 62%
 
 Weather ☔️: scattered clouds
-
-_(Updating every day at about 1 pm)_
-(Updating every day at about 1 pm)
-
-Temperature 🌡️: 261.63 K, -11.52°C
-
-Atmospheric pressure 💨: 1021 hPa
-
-Humidity 💦: 60%
-
-Weather ☔️: scattered clouds
-
-</details>
