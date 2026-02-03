@@ -15,7 +15,7 @@ I'm Dorota, a Software Engineer from Poland.
 
 ### 🌿My stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=dorota-ostrowska)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorota-ostrowska&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 
 ---
 
@@ -33,12 +33,12 @@ I'm Dorota, a Software Engineer from Poland.
 <details><summary>✨Weather in Warsaw✨</summary>
 (Updating every day at about 1 pm)
 
-Temperature 🌡️: 263.62 K, -9.53°C
+Temperature 🌡️: 260.56 K, -12.59°C
 
-Atmospheric pressure 💨: 1020 hPa
+Atmospheric pressure 💨: 1021 hPa
 
-Humidity 💦: 53%
+Humidity 💦: 62%
 
-Weather ☔️: clear sky
+Weather ☔️: scattered clouds
 
 </details>
