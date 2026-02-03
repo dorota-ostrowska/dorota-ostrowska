@@ -1,10 +1,10 @@
-### 🌿Hi, nice to see you! 
+### 👋 Hi, nice to see you! 
 
 Welcome to my page! 👋
 
 ---
 
-### 🌿About me
+### 👩‍💻 About me
 
 I’m **Dorota**, a **Software Engineer** from Poland 🇵🇱  
 
@@ -12,12 +12,12 @@ Right now I work mostly as a **DevOps** or **Cloud Engineer**, building platform
 
 Outside of work, I sometimes share **small personal projects** here. I code because it’s fun. 🧠✨ I genuinely **love teaching people tech** and making complex things easier to understand.
 
-🎓 **My education**
+### 🎓 My education
 
 - 🏫 BSc in Power Engineering ⚡ — Gdańsk University of Technology  
 - 🎓 MSc in Computer Science 👾 — PJATK  
 
-Because I realised:
+**Because I realised:**
 
 > Energy needs software.  
 > And software without domain knowledge is… *meh*.
@@ -28,9 +28,19 @@ So I mixed both. And here we are 🚀
 
 ---
 
-### ✨Weather in my city - Warsaw✨
+### 🤡 Random joke
 
-(Updating every day at about 1 pm)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+I promise I have better taste in code than in random jokes.
+
+Comedy is random. Taste is subjective. Please don’t judge me by this joke. 😂
+
+---
+
+### ☀️ Weather in my city
+
+I live in Warsaw. 🧜🏻‍♀️
 
 Temperature 🌡️: 260.56 K, -12.59°C
 
@@ -40,17 +50,4 @@ Humidity 💦: 62%
 
 Weather ☔️: scattered clouds
 
-### ✨Random joke✨
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
 (Updating every day at about 1 pm)
-
-Temperature 🌡️: 260.75 K, -12.4°C
-
-Atmospheric pressure 💨: 1020 hPa
-
-Humidity 💦: 63%
-
-Weather ☔️: scattered clouds
-
-</details>
