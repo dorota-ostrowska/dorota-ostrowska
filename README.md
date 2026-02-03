@@ -51,3 +51,14 @@ Humidity 💦: 62%
 Weather ☔️: scattered clouds
 
 (Updating every day at about 1 pm)
+(Updating every day at about 1 pm)
+
+Temperature 🌡️: 261.63 K, -11.52°C
+
+Atmospheric pressure 💨: 1021 hPa
+
+Humidity 💦: 60%
+
+Weather ☔️: scattered clouds
+
+</details>
