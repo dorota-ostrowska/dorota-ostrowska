@@ -45,10 +45,10 @@ I live in Warsaw. 🧜🏻‍♀️
 
 Temperature 🌡️: 268.77 K, -4.38°C
 
-Atmospheric pressure 💨: 1016 hPa
+Atmospheric pressure 💨: 1005 hPa
 
-Humidity 💦: 76%
+Humidity 💦: 52%
 
-Weather ☔️: broken clouds
+Weather ☔️: clear sky
 
 </details>
