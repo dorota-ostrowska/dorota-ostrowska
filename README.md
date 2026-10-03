@@ -43,11 +43,11 @@ Comedy is random. Taste is subjective. Please don’t judge me by this joke. �
 <details><summary>☀️ Weather in My City</summary>
 I live in Warsaw. 🧜🏻‍♀️
 
-Temperature 🌡️: 287.02 K, 13.87°C
+Temperature 🌡️: 291.63 K, 18.48°C
 
-Atmospheric pressure 💨: 1032 hPa
+Atmospheric pressure 💨: 1028 hPa
 
-Humidity 💦: 59%
+Humidity 💦: 56%
 
 Weather ☔️: clear sky
 
